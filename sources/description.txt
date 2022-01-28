@@ -1,0 +1,266 @@
+Repositories de Pierre Richelle
+{
+  "data": {
+    "viewer": {
+      "login": "prichelle",
+      "bio": null,
+      "company": null,
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5645724?v=4",
+      "email": "",
+      "id": "MDQ6VXNlcjU2NDU3MjQ=",
+      "isEmployee": false,
+      "repositories": {
+        "totalCount": 13,
+        "totalDiskUsage": 31155,
+        "nodes": [
+          {
+            "description": null,
+            "createdAt": "2017-06-07T08:31:58Z",
+            "updatedAt": "2020-11-03T07:56:03Z",
+            "url": "https://github.com/prichelle/IBM-API-Connect-PoT",
+            "diskUsage": 26566
+          },
+          {
+            "description": null,
+            "createdAt": "2019-05-17T13:48:08Z",
+            "updatedAt": "2019-06-27T09:43:06Z",
+            "url": "https://github.com/prichelle/devops-sample-app",
+            "diskUsage": 100
+          },
+          {
+            "description": null,
+            "createdAt": "2019-06-03T10:05:54Z",
+            "updatedAt": "2019-06-03T10:05:57Z",
+            "url": "https://github.com/prichelle/apicv2018-devops",
+            "diskUsage": 21
+          },
+          {
+            "description": "Created for toolchain: https://console.bluemix.net/devops/toolchains/5e9ea9c1-139a-4a33-996c-b53d1974bd4d?env_id=ibm%3Ayp%3Aeu-gb",
+            "createdAt": "2019-06-05T07:48:30Z",
+            "updatedAt": "2021-01-29T14:56:15Z",
+            "url": "https://github.com/prichelle/apic-cd",
+            "diskUsage": 8
+          },
+          {
+            "description": null,
+            "createdAt": "2019-07-18T08:52:32Z",
+            "updatedAt": "2019-07-18T08:54:04Z",
+            "url": "https://github.com/prichelle/devops-demo-frontend",
+            "diskUsage": 140
+          },
+          {
+            "description": null,
+            "createdAt": "2019-07-18T08:54:37Z",
+            "updatedAt": "2019-07-18T10:53:10Z",
+            "url": "https://github.com/prichelle/devops-release-app",
+            "diskUsage": 31
+          },
+          {
+            "description": null,
+            "createdAt": "2020-06-24T15:01:53Z",
+            "updatedAt": "2021-12-09T14:19:41Z",
+            "url": "https://github.com/prichelle/prichelle.github.io",
+            "diskUsage": 3681
+          },
+          {
+            "description": "devops with ACE",
+            "createdAt": "2020-10-15T12:37:14Z",
+            "updatedAt": "2021-12-02T07:52:33Z",
+            "url": "https://github.com/prichelle/pipeline-ace",
+            "diskUsage": 186
+          },
+          {
+            "description": null,
+            "createdAt": "2020-11-03T07:58:30Z",
+            "updatedAt": "2020-11-03T08:02:22Z",
+            "url": "https://github.com/prichelle/apigw-udp",
+            "diskUsage": 10
+          },
+          {
+            "description": "repository that contains tutorial resources for API Connect v10",
+            "createdAt": "2021-01-28T07:08:54Z",
+            "updatedAt": "2021-01-28T07:20:56Z",
+            "url": "https://github.com/prichelle/apic-v10-tutorials",
+            "diskUsage": 6
+          },
+          {
+            "description": null,
+            "createdAt": "2021-05-04T06:56:20Z",
+            "updatedAt": "2021-06-02T13:09:40Z",
+            "url": "https://github.com/prichelle/pipeline-apic",
+            "diskUsage": 28
+          },
+          {
+            "description": null,
+            "createdAt": "2021-05-27T12:50:45Z",
+            "updatedAt": "2021-05-27T12:50:45Z",
+            "url": "https://github.com/prichelle/apic-udp",
+            "diskUsage": 0
+          },
+          {
+            "description": null,
+            "createdAt": "2021-06-09T10:10:02Z",
+            "updatedAt": "2021-06-09T10:15:38Z",
+            "url": "https://github.com/prichelle/apicv10-UDP",
+            "diskUsage": 378
+          }
+        ],
+        "pageInfo": {
+          "endCursor": "Y3Vyc29yOnYyOpHOFl7I0w==",
+          "startCursor": "Y3Vyc29yOnYyOpHOBZRmkg=="
+        }
+      }
+    }
+  }
+}
+Repositories de Frédéric Dutheil
+Repositories de Arnauld Desprets
+{
+  "data": {
+    "viewer": {
+      "login": "ADesprets",
+      "bio": "IT Architect at IBM\r\nIntegration",
+      "company": "IBM",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26712704?u=a0473f22fe18b516dd0c04572cb1d22483320a9f&v=4",
+      "email": "arnauld_desprets@fr.ibm.com",
+      "id": "MDQ6VXNlcjI2NzEyNzA0",
+      "isEmployee": false,
+      "repositories": {
+        "totalCount": 18,
+        "totalDiskUsage": 156375,
+        "nodes": [
+          {
+            "description": null,
+            "createdAt": "2017-03-28T16:01:12Z",
+            "updatedAt": "2021-03-03T14:40:16Z",
+            "url": "https://github.com/ADesprets/faststart",
+            "diskUsage": 26566
+          },
+          {
+            "description": "Discover Bluemix, IBM Cloud Platform, through a set of hands-on labs.",
+            "createdAt": "2017-03-29T10:18:00Z",
+            "updatedAt": "2021-10-11T15:49:59Z",
+            "url": "https://github.com/ADesprets/bluemix-labs",
+            "diskUsage": 93704
+          },
+          {
+            "description": "Provides samples of scripts to operate API Connect both on premise and in the cloud (Bluemix)",
+            "createdAt": "2017-06-13T08:54:23Z",
+            "updatedAt": "2021-04-07T20:29:28Z",
+            "url": "https://github.com/ADesprets/apic_scripts",
+            "diskUsage": 22
+          },
+          {
+            "description": "DataPower API Gateway Experimental Feedback",
+            "createdAt": "2017-08-07T18:14:03Z",
+            "updatedAt": "2021-03-03T14:40:55Z",
+            "url": "https://github.com/ADesprets/apigateway-experimental",
+            "diskUsage": 796
+          },
+          {
+            "description": "Sample of a Web app using Open Banking PSD2 Api powered by IBM API Connect",
+            "createdAt": "2018-03-05T15:59:55Z",
+            "updatedAt": "2018-03-05T15:59:57Z",
+            "url": "https://github.com/ADesprets/psd2-app",
+            "diskUsage": 5382
+          },
+          {
+            "description": "This is an Electron Application, which uses the AppAuth-JS library.",
+            "createdAt": "2018-10-01T11:47:39Z",
+            "updatedAt": "2018-10-01T11:47:41Z",
+            "url": "https://github.com/ADesprets/appauth-js-electron-sample",
+            "diskUsage": 113
+          },
+          {
+            "description": "Old sample of a loopback application running in Kube",
+            "createdAt": "2018-11-07T09:56:16Z",
+            "updatedAt": "2022-01-11T09:53:00Z",
+            "url": "https://github.com/ADesprets/demo-Accounts",
+            "diskUsage": 15
+          },
+          {
+            "description": null,
+            "createdAt": "2019-11-12T15:43:57Z",
+            "updatedAt": "2021-03-03T14:38:52Z",
+            "url": "https://github.com/ADesprets/devops-essentials-sample-app",
+            "diskUsage": 54
+          },
+          {
+            "description": "MyAssetRepository",
+            "createdAt": "2019-11-13T13:45:23Z",
+            "updatedAt": "2021-03-03T13:40:09Z",
+            "url": "https://github.com/ADesprets/MyAssetRepository",
+            "diskUsage": 55
+          },
+          {
+            "description": null,
+            "createdAt": "2020-03-06T16:36:14Z",
+            "updatedAt": "2020-04-30T12:59:43Z",
+            "url": "https://github.com/philippecurmin/apic-openshift",
+            "diskUsage": 28
+          },
+          {
+            "description": "Explanation on SSL/TLS. The whys and hows on the protocol History of cryptography.",
+            "createdAt": "2020-07-03T17:53:33Z",
+            "updatedAt": "2021-08-25T09:43:55Z",
+            "url": "https://github.com/ADesprets/TLS",
+            "diskUsage": 874
+          },
+          {
+            "description": "GraphQL samples with API Connect",
+            "createdAt": "2020-07-17T09:07:03Z",
+            "updatedAt": "2022-01-11T09:47:45Z",
+            "url": "https://github.com/ADesprets/APIC-GraphQL",
+            "diskUsage": 2872
+          },
+          {
+            "description": "DataPower Latencies analyzer with Excel",
+            "createdAt": "2020-09-03T09:16:55Z",
+            "updatedAt": "2022-01-11T09:48:13Z",
+            "url": "https://github.com/ADesprets/Latency_Analyzer",
+            "diskUsage": 25158
+          },
+          {
+            "description": "Deep dive in DataPower TLS configuration",
+            "createdAt": "2020-09-18T08:59:54Z",
+            "updatedAt": "2022-01-11T09:48:35Z",
+            "url": "https://github.com/ADesprets/DPSSLClientProfile",
+            "diskUsage": 89
+          },
+          {
+            "description": "Repository of Gateway/JavaScript Samples running in API Connect",
+            "createdAt": "2020-10-05T06:36:43Z",
+            "updatedAt": "2021-03-03T13:16:39Z",
+            "url": "https://github.com/ADesprets/apic-gtw-scripts",
+            "diskUsage": 31
+          },
+          {
+            "description": "A tool to load multiple files into DataPower",
+            "createdAt": "2021-02-23T17:34:31Z",
+            "updatedAt": "2021-04-27T14:47:26Z",
+            "url": "https://github.com/ADesprets/DataPowerFilesUpload",
+            "diskUsage": 40
+          },
+          {
+            "description": "User management in APIC",
+            "createdAt": "2021-11-29T18:25:36Z",
+            "updatedAt": "2021-11-29T19:27:12Z",
+            "url": "https://github.com/ADesprets/apic-users-mgmt",
+            "diskUsage": 117
+          },
+          {
+            "description": "Using the petstore API with IBM API Connect",
+            "createdAt": "2022-01-10T08:19:59Z",
+            "updatedAt": "2022-01-11T09:53:25Z",
+            "url": "https://github.com/ADesprets/petstore",
+            "diskUsage": 459
+          }
+        ],
+        "pageInfo": {
+          "endCursor": "Y3Vyc29yOnYyOpHOGpqLdQ==",
+          "startCursor": "Y3Vyc29yOnYyOpHOBSeUxw=="
+        }
+      }
+    }
+  }
+}
