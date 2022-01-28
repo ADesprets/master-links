@@ -1,4 +1,7 @@
-The purpose of this page is to help find reusable assets
+The purpose of this page is to help find reusable assets in the integration space with IBM products.
+
+For now it is just myself sharing what I have found but I will be happy to take your good advises (please use the pull request feature so you can get recognise of your contribution).
+
 
 | Assets repository                                        | Author                   | Nb of repo. | Topic  |
 |----------------------------------------------------------|--------------------------|-------------|--------|
