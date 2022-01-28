@@ -21,7 +21,7 @@ The idea is to describe each asset at some point with an automated approach (usi
 Below is a sample of template but it is under construction.
 
 |Sample                                                                                                                                 |
------------------------------------------------------------------------------------------------------------------------------------------
+|---------------------------------------------------------------------------------------------------------------------------------------|
 |Title: *Deploy Service Mesh operators and control plane with CLI on OpenShift Container Platform*                                      |
 |Domain : OpenShift                                                                                                                     |
 |Area: Scripts, explanations                                                                                                            |
