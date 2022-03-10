@@ -5,12 +5,14 @@ For now it is just myself sharing what I have found but I will be happy to take 
 
 | Assets repository                                        | Author                   | Nb of repo. | Topic  |
 |----------------------------------------------------------|--------------------------|-------------|--------|
+| https://github.com/ibm-cloud-architecture                | Official - More than one | 309         | Archi  |
 | https://ibm-garage-tsa.github.io/cp4i-demohub/resources/ | Official - More than one | 117         | CP4I   |
 | https://github.com/jbcodeforce                           | Jérôme Boyer             | 102         | EDA    |
 | https://github.com/ibm-apiconnect                        | Official - More than one | 49          | APIC   |
 | https://github.com/jtarte                                | Jérôme Tarte             | 28          | Kube   |
 | https://github.ibm.com/integration-ts-eu                 | Official - More than one | 27          | CP4I   |
 | https://github.com/fdut                                  | Frédéric Dutheil         | 22          | CP4I   |
+| https://github.ibm.com/icp4i                             | Official - More than one | 19          | CP4I   |
 | https://github.ibm.com/pierre-richelle                   | Pierre Richelle          | 18          | CP4I   |
 | https://github.com/ADesprets/                            | Arnauld Desprets         | 16          | APIC   |
 | https://github.ibm.com/msit                              | Murali Sitaraman         | 12          | CP4I   |
@@ -18,7 +20,7 @@ For now it is just myself sharing what I have found but I will be happy to take 
 | https://github.ibm.com/cesar-cavazos                     | Cesar Cavazos            | 6           | Kube   |
 | https://github.ibm.com/laurent-martin-aspera/            | Laurent Martin           | 3           | Aspera |
 | https://github.ibm.com/jm-lafont                         | Jean Michel Lafont       | 3           | devOps |
-| https://github.ibm.com/icp4i                             | Official - More than one | 19          | CP4I   |
+| https://github.com/orgs/IBM                              | IBM                      | 2400        | Divers |
 
 
 The idea is to describe each asset at some point with an automated approach (using github graphql api for example) to facilitate the retrieval of useful assets in the integration space.
