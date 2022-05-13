@@ -24,7 +24,7 @@ For now it is just myself sharing what I have found but I will be happy to take 
 
 
 The idea is to describe each asset at some point with an automated approach (using github graphql api for example) to facilitate the retrieval of useful assets in the integration space.
-Below is a sample of template but it is under construction.
+Below is a sample of template but it is under construction. Web application is under development.
 
 |Sample                                                                                                                                 |
 |---------------------------------------------------------------------------------------------------------------------------------------|
