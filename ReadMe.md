@@ -3,10 +3,11 @@ The purpose of this page is to help find reusable assets in the integration spac
 For now it is just myself sharing what I have found but I will be happy to take your good advises (please use the pull request feature so you can get recognise of your contribution).
 
 
-| Assets repository                                        | Author                   | Nb of repo. | Topic  |
+| Assets repository                                        | Author(s)                | Nb of repo. | Topic  |
 |----------------------------------------------------------|--------------------------|-------------|--------|
 | https://github.com/ibm-cloud-architecture                | Official - More than one | 309         | Archi  |
 | https://ibm-garage-tsa.github.io/cp4i-demohub/resources/ | Official - More than one | 117         | CP4I   |
+| https://github.com/orgs/ibm-messaging                    | Official - More than one | 110         | MQ     |
 | https://github.com/jbcodeforce                           | Jérôme Boyer             | 102         | EDA    |
 | https://github.com/ibm-apiconnect                        | Official - More than one | 49          | APIC   |
 | https://github.com/jtarte                                | Jérôme Tarte             | 28          | Kube   |
@@ -21,6 +22,7 @@ For now it is just myself sharing what I have found but I will be happy to take 
 | https://github.ibm.com/laurent-martin-aspera/            | Laurent Martin           | 3           | Aspera |
 | https://github.ibm.com/jm-lafont                         | Jean Michel Lafont       | 3           | devOps |
 | https://github.com/orgs/IBM                              | IBM                      | 2400        | Divers |
+| https://github.com/IBM/application-modernization-javaee-quarkus| IBM                | 1           | J2EE   |
 
 
 The idea is to describe each asset at some point with an automated approach (using github graphql api for example) to facilitate the retrieval of useful assets in the integration space.
