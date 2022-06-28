@@ -27,6 +27,7 @@ For now it is just myself sharing what I have found but I will be happy to take 
 Some important ones
 
 | URL                                                      | Author(s)                | Nb of repo. | Topic  |
+|----------------------------------------------------------|--------------------------|-------------|--------|
 | https://production-gitops.dev/                           | IBM                      | 0           | GitOps |
 
 
