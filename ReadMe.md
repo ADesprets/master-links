@@ -30,6 +30,7 @@ Some important ones
 |--------------------------------------------------------------------------|------------|-------------|-----------|
 | https://production-gitops.dev/                                           | IBM        | 0           | GitOps    |
 | https://ibm-cloudintegration.github.io/Integration-TechXchange-workshops/| IBM        | 0           | Tutorials |
+| https://ibm-messaging.github.io/mqperf/                                  | IBM        | 0           | MQ Perf   |
 
 
 The idea is to describe each asset at some point with an automated approach (using github graphql api for example) to facilitate the retrieval of useful assets in the integration space.
