@@ -26,9 +26,10 @@ For now it is just myself sharing what I have found but I will be happy to take 
 
 Some important ones
 
-| URL                                                      | Author(s)                | Nb of repo. | Topic  |
-|----------------------------------------------------------|--------------------------|-------------|--------|
-| https://production-gitops.dev/                           | IBM                      | 0           | GitOps |
+| URL                                                                      | Author(s)  | Nb of repo. | Topic     |
+|--------------------------------------------------------------------------|------------|-------------|-----------|
+| https://production-gitops.dev/                                           | IBM        | 0           | GitOps    |
+| https://ibm-cloudintegration.github.io/Integration-TechXchange-workshops/| IBM        | 0           | Tutorials |
 
 
 The idea is to describe each asset at some point with an automated approach (using github graphql api for example) to facilitate the retrieval of useful assets in the integration space.
